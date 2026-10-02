@@ -1,0 +1,17 @@
+{
+  "name": "mohamed-hassen-sat-12-6-assiment-8-01013043441",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch --env-file=./src/Config/.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.10.2"
+  }
+}

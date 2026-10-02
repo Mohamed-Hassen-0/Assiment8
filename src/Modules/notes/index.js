@@ -1,0 +1,1 @@
+export {default as NotesRouter} from "./notes.controller.js"
